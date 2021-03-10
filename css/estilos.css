@@ -1,5 +1,17 @@
 body{
-    text-align: center;
+    text-align: left;
     font-family: Arial, Helvetica, sans-serif;
-    color: deeppink;
+    color: gray;
+}
+
+#container{
+    border: 1px solid #CCC;
+    padding: 30px;
+    border-radius: 30px;
+}
+#post h1{
+    font-size: 30px;
+}
+#post p{
+    font-size: 16px;
 }
